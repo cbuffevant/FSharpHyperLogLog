@@ -1,0 +1,6 @@
+src/HyperLogLog.sln.DotSettings.user
+src/HyperLogLog.Test/bin/
+src/HyperLogLog.Test/obj/
+src/HyperLogLog/bin/
+src/HyperLogLog/obj/
+src/packages/
